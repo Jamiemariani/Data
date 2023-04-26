@@ -2,17 +2,18 @@
 # Data, python examples and reports for wider analysis
 This repository contains financial market data, code (mainly **python**) and sample mini-projects that showcase a range of **visualisation** techniques for conveying insight and sparking wider debate and research.  
 
-Sample projects shared include:-
+Sample projects shared include:-  
+
 #### Sample 1: The COVID crisis
 Using data and visualisations to explore interconnections between deaths caused by the virus and a variety of predictor variables
 ###### Key techniques showcased:-
-##### Time-series analysis, Markowitz mean-variance analysis, correlation heatmaps, feature selection, linear regression, residual boxplots, residual histograms, 
+##### Time-series analysis, Markowitz mean-variance analysis, correlation heatmaps, feature selection, linear regression, residual boxplots & residual histograms 
 *Source data: Our World in Data, Daily Seated Diner Data ('State of the Industry', OpenTable), Index Valuations (Bloomberg)*  
 #### Sample 2: The value anomaly revisited  
 
 Taking a multi-country approach, this mini report seeks to answer whether lower starting point equity valuations, using EV/Sales and P/E multiples, have had signal power for higher future returns. The importance of the tech sector and growth in ESG investing assets are briefly investigated as alternative explanatory variables of returns  
 ###### Key techniques showcased:-
-##### Visualisation /charting in **python**, using the Matplotlib and Seaborn libraries, correlation heatmaps, scatter plots and histograms  
+##### Visualisation /charting in **python**, using the Matplotlib and Seaborn libraries, correlation heatmaps, scatter plots & histograms  
 
 *Source data: Market prices (Bloomberg)*
 
