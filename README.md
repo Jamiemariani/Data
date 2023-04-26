@@ -11,7 +11,7 @@ Using data and visualisations to explore interconnections between deaths caused 
 *Source data: Our World in Data, Daily Seated Diner Data ('State of the Industry', OpenTable), Index Valuations (Bloomberg)*  
 #### Sample 2: The value anomaly revisited  
 
-Taking a multi-country approach, this mini report seeks to answer whether lower starting point equity valuations, using EV/Sales and P/E multiples, have had signal power for higher future returns. The importance of the tech sector and growth in ESG investing assets are briefly investigated as alternative explanatory variables of returns  
+Taking a multi-country approach, this mini report seeks to answer whether lower starting point equity valuations, using EV/Sales and P/E multiples, have had signal power for higher future returns post the GFC (2009). The importance of the tech sector and growth in ESG investing assets are briefly investigated as alternative explanatory variables of returns  
 ###### Key techniques showcased:-
 ##### Visualisation /charting in **python**, using the Matplotlib and Seaborn libraries, correlation heatmaps, scatter plots & histograms  
 
