@@ -1,6 +1,7 @@
 ## Portfolio samples
 # Data, python examples and reports for wider analysis
-This repository contains financial market data, code (mainly **python**) and sample mini-projects that showcase a range of **visualisation** techniques for conveying insight and sparking wider debate and research. 
+This repository contains financial market data, code (mainly **python**) and sample mini-projects that showcase a range of **visualisation** techniques for conveying insight and sparking wider debate and research.  
+
 Sample projects shared include:-
 #### Sample 1: The COVID crisis
 Using data and visualisations to explore interconnections between deaths caused by the virus and a variety of predictor variables
