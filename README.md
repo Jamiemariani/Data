@@ -12,7 +12,7 @@ Using data and visualisations to explore interconnections between deaths caused 
 
 #### Sample 2: Macchine Learning (ML) project
 
-This mini study critically evaluated different pattern recognition machine learning algorithms performing supervised learning on symptoms of Chronic Obstructive Pulmonary Disease (COPD). The algorithms evaluated are Support Vector Machines (SVM) and Artificial Neural networks (ANN)  
+This mini study critically evaluated different pattern recognition machine learning algorithms performing supervised learning on symptoms of Chronic Obstructive Pulmonary Disease (COPD). Support Vector Machines (SVM) and Artificial Neural networks (ANN) algorithms are evaluated. 
 
 ###### Key techniques showcased:-
 #####  In **python**, feature selection (correlation analysis), testing and training data samples, grid search to optimize hyper parametres, **5-fold stratified cross-validation**, SVMs (a non-perceptron based machine learning classification), a Sigmoid output function, Binary Cross Entropy, **confusion matrix**, Receiver Operation Curve (to review accuracy between training and test samples).  
