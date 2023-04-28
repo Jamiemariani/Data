@@ -7,7 +7,7 @@ Sample projects shared include:-
 #### Sample 1: The COVID crisis
 Using data and visualisations to explore interconnections between deaths caused by the virus and a variety of predictor variables
 ###### Key techniques showcased:-
-##### In python code time-series analysis, Markowitz mean-variance analysis, correlation heatmaps, feature selection, linear regression, residual boxplots & residual histograms 
+##### In python code time-series analysis, Markowitz mean-variance, correlation heatmaps, feature selection, linear regression, residual boxplots & residual histograms 
 *Source data: Our World in Data, Daily Seated Diner Data ('State of the Industry', OpenTable), Index Valuations (Bloomberg)*  
 
 #### Sample 2: Machine Learning (ML) healthcare project
