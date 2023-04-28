@@ -1,6 +1,6 @@
 ## Portfolio samples
 # Data, python examples and reports for wider analysis
-This repository contains financial market data, code (mainly **python**) and sample mini-projects that showcase a range of **visualisation** techniques for conveying insight and sparking wider debate and research.  
+This repository contains financial market data, code (mainly **python**) and sample mini-projects that showcase a range of **visualisation**, **data science** and **machine learning** techniques for conveying insight and sparking wider debate and research.  
 
 Sample projects shared include:-  
 
