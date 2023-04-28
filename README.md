@@ -16,7 +16,7 @@ This mini study critically evaluated different pattern recognition machine learn
 
 ###### Key techniques showcased:-
 #####  In **python**, feature selection (correlation analysis), testing and training data samples, grid search to optimize hyper parametres, **5-fold stratified cross-validation**, SVMs (a non-perceptron based machine learning classification), a Sigmoid output function, Binary Cross Entropy, **confusion matrix**, Receiver Operation Curve (to review accuracy between training and test samples).  
-
+*Source data: UCI machine learning repository (Zarrin 2020). The data is from a clinical study looking into COPD diagnosis.
 
 #### Sample 3: The value anomaly revisited  
 
