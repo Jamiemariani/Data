@@ -10,7 +10,7 @@ Using data and visualisations to explore interconnections between deaths caused 
 ##### Time-series analysis, Markowitz mean-variance analysis, correlation heatmaps, feature selection, linear regression, residual boxplots & residual histograms 
 *Source data: Our World in Data, Daily Seated Diner Data ('State of the Industry', OpenTable), Index Valuations (Bloomberg)*  
 
-#### Sample 2: Macchine Learning (ML) project
+#### Sample 2: Machine Learning (ML) healthcare project
 
 This mini study critically evaluated different pattern recognition machine learning algorithms performing supervised learning on symptoms of Chronic Obstructive Pulmonary Disease (COPD). Support Vector Machines (SVM) and Artificial Neural Networks (ANN) algorithms are evaluated. 
 
